@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maretaayu
-- 👀 I design & code interface
-- 🌱 I’m currently learning React JS & Typescript
+- 👀 I design & code web
+- 🌱 '99
 
 <!---
 maretaayu/maretaayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

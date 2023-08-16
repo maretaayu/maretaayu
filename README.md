@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maretaayu
-- 👀 I design & code web
+👋 Hi, I’m Mareta
+👀 Frontend • UI/UX
 
 <!---
 maretaayu/maretaayu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
